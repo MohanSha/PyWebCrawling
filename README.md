@@ -18,4 +18,8 @@ Get batsmen stats for ipl
 
 Product price tracker
 
+## Twitter API Test 
+
+Twitter API example in python
+
 
