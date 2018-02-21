@@ -47,6 +47,9 @@ Get the latest images from XKCD
 Example of multithreading in python, 
 Can track multiple stock prices and update it in a file to track progress
 
+## Mass Whatsapp Group Creator
+
+Create multiple whatsapp group in an instant
 
 
 
