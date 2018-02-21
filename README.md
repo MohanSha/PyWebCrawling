@@ -73,6 +73,10 @@ Get youtube URL from youtube and download
 
 Download tv series from ftp sites(multithreading)
 
+## Billboard Download
+
+Get the top 50 weekly songs from billboard.com
+
 
 
 
