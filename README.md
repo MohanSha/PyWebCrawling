@@ -51,6 +51,7 @@ Can track multiple stock prices and update it in a file to track progress
 
 Create multiple whatsapp group in an instant
 Added whatsapp spammer program
+added contact generate
 
 
 
