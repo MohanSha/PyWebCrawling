@@ -22,4 +22,8 @@ Product price tracker
 
 Twitter API example in python
 
+## Stock Quotes 
+
+Get stock prices from google finance
+
 
