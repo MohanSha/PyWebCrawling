@@ -2,6 +2,10 @@
 
 Web scraping and automation using python
 
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/MohanSha/TwitterBot/blob/master/LICENSE)
+[![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-red.svg)](https://github.com/SeleniumHQ/selenium)
+[![built with Python3](https://img.shields.io/badge/built%20with-Python3-green.svg)](https://www.python.org/)
+
 ## Bing Image Download
 
 Get the day's bing image and set as wallpaper
