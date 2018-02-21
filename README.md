@@ -44,7 +44,10 @@ Get the latest images from XKCD
 
 ## Stock Tracker - Multiple
 
+Example of multithreading in python, 
 Can track multiple stock prices and update it in a file to track progress
+
+
 
 
 
