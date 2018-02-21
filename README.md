@@ -57,6 +57,10 @@ added contact generate
 
 Get the latest full news articles from google news
 
+## Imdb 
+
+Get top 250 list from imdb
+
 
 
 
