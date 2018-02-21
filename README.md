@@ -26,4 +26,9 @@ Twitter API example in python
 
 Get stock prices from google finance
 
+## Airtel-badwidth 
+
+Get the remaining high speed internet from airtel
+
+
 
