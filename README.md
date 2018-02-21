@@ -61,6 +61,10 @@ Get the latest full news articles from google news
 
 Get top 250 list from imdb
 
+#  Download Hotstar 
+
+Get download urls from hotstar and download
+
 
 
 
