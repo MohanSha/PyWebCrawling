@@ -42,6 +42,9 @@ Get the codechef schedule for running contests
 
 Get the latest images from XKCD
 
+## Stock Tracker - Multiple
+
+Can track multiple stock prices and update it in a file to track progress
 
 
 
