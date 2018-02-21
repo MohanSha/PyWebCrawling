@@ -6,3 +6,6 @@ Web scraping and automation using python
 
 Get the day's bing image and set as wallpaper
 
+## Cricbuzz 
+
+Get the latest cricket scores from cricbuzz
