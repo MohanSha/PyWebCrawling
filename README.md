@@ -34,5 +34,10 @@ Get the remaining high speed internet from airtel
 
 Get the lowest price of a book
 
+## Codechef 
+
+Get the codechef schedule for running contests
+
+
 
 
